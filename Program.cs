@@ -1,4 +1,11 @@
-﻿void GreetWhite()
+﻿Console.WriteLine("hello everyone");
+
+void GreetBlack()
+{
+    Console.WriteLine("hello black");
+}
+
+void GreetWhite()
 {
     Console.WriteLine("hello white");
 }
